@@ -1,0 +1,97 @@
+{
+  "last": "Default",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "DEFAULT",
+  "commonpath": "C:\\Users\\Lenovo\\AppData\\Roaming\\.minecraft",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "theme": "blue",
+  "localization": "def",
+  "downloadType": "bmclapi",
+  "configurations": {
+    "Default": {
+      "global": {
+        "usesGlobal": true,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 2048,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "Default",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": ""
+      },
+      "gameDir": ".minecraft",
+      "useRelativePath": true,
+      "selectedMinecraftVersion": "1.14.4"
+    },
+    "Home": {
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 2048,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": ""
+      },
+      "gameDir": "C:\\Users\\Lenovo\\AppData\\Roaming\\.minecraft",
+      "useRelativePath": false
+    }
+  },
+  "accounts": [
+    {
+      "clientToken": "f1f76438340144aeb799915635e159f6",
+      "displayName": "Lesungend",
+      "userProperties": {
+        "preferredLanguage": "zh-cn",
+        "registrationCountry": "US"
+      },
+      "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJiN2Y3NzQyNTIxMTMwYjNjMTA2ZjY1MzYyOTNkNjY4ZSIsInlnZ3QiOiIzOTk0ZmMxMTU2YzM0MWZkYTE1YTFmMmM0YjdmZDY4YyIsInNwciI6ImUyNTBjOTY5NWE5NDQ4NDM4ZDFkYzRiMDA0ZmY1ZjFhIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE1ODEwNzgwNzUsImlhdCI6MTU4MDkwNTI3NX0.dqqIr5_X13LQoQsrTg2mySuxhxgdjurINZU4ra4zNoc",
+      "profileProperties": {
+        "textures": "eyJ0aW1lc3RhbXAiOjE1ODA5MDUyNzYwNTgsInByb2ZpbGVJZCI6ImUyNTBjOTY5NWE5NDQ4NDM4ZDFkYzRiMDA0ZmY1ZjFhIiwicHJvZmlsZU5hbWUiOiJMZXN1bmdlbmQiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmEwYmNiNmNjZjFmYjdkMDk5NWY1MDJjODcwOGE4NDBiZDhjNThmZTQ4NWMzNjNkNDU1NzEyNjVkZmIwZTFhMCIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+      },
+      "type": "yggdrasil",
+      "uuid": "e250c9695a9448438d1dc4b004ff5f1a",
+      "userid": "b7f7742521130b3c106f6536293d668e",
+      "selected": true,
+      "username": "luochaoqwertyui@outlook.com"
+    }
+  ],
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 100,
+  "authlibInjectorServers": [],
+  "updateChannel": "STABLE",
+  "_version": 0,
+  "uiVersion": 0,
+  "preferredLoginType": "yggdrasil"
+}

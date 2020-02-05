@@ -1,0 +1,3 @@
+高清修复Optifine和Tweakeroo会冲突，若要使用高清修复，请把tweakeroo移动至本文件夹
+Tweakeroo快捷键X+C
+投影快捷键M
